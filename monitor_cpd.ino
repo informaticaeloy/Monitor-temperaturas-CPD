@@ -12,7 +12,7 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
-char auth[] = "hWE4p7JAq17YX9oQJ7a2SjsDZNjG2WA3";
+char auth[] = "hWE4p7JAq17YXfake7a2SjsDZNjG2WA3";
 
 byte arduino_mac[] = { 0xDE, 0xED, 0xBA, 0xFE, 0xFE, 0xED };
 IPAddress arduino_ip ( 192, 168,   1, 120); // dirección IP del ARDUINO
